@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @CuriousCrook
 - 👀 I’m interested in Python, Bluetooth, ANT+, Z-Wave, ZigBee, MTConnect, OPC UA, ...
-- 🌱 I’m currently learning Python.
+- 🌱 I’m currently learning Python, GitHub.
 - 💞️ I’m looking a nice project with friendly maintainer to learn a lot.
 - 📫 How to reach me ...
 
